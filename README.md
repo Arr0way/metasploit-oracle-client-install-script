@@ -14,7 +14,7 @@ Run:
 ./msf-oracle-client-installer.sh 
 ```
 
-![Metasploit Oracle Install Script](https://i.imgur.com/BXw5VYC.gifv)
+![Metasploit Oracle Install Script](https://i.imgur.com/BXw5VYC.gif)
 
 
 ## Test it works! 
