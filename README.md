@@ -8,7 +8,11 @@ Download the [Oracle Client](http://www.oracle.com/technetwork/database/features
         instantclient-sqlplus-linux-*.zip
         instantclient-sdk-linux-*.zip
 
-Run ./msf-oracle-client-installer.sh 
+Run: 
+
+```
+./msf-oracle-client-installer.sh 
+```
 
 Test it works by running msfconsole: 
 
