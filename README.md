@@ -1,6 +1,6 @@
 # Metasploit Oracle Client Install Script
 
-Metasploit Framework Oracle client install script.
+Metasploit Framework Oracle client 12.1 install script.
 
 Download the [Oracle Client](http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html) zip files and place the download zip files within the "oracle-packages" dir in the script root directory. 
 
